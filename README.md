@@ -1,20 +1,204 @@
-### Hi there I'm Sardorbek👋
-### I'm .Net developer 👨🏻‍💻
+<!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=SARDORBEK%20KOMILOV%20&desc=FULL%20STACK%20.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
-<!--
-**iSardorbee/iSardorbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">
+    Welcome to Sardorbek's profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--ANIMATED WELCOME TEXT -->
+<p align="center">
+    <a href="https://github.com/iSardorbee/readme-typing-svg">
+        <img
+                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;More%20than%20a%202+%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=420&height=45"></a>
+</p>
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+
+<p align="center"> 
+<a href ="https://open.spotify.com/playlist/7A6G6HO8jNqKhRLdRV7B0V" target="spotify"> <img src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300" /> </a> </p>
+
+
+
+## 🙋‍♂️ Connect with me
+
+<!-- Badges template - https://github.com/iSardorbee -->
+<p align="center">
+    <a href="https://github.com/">
+        <img alt="Github"
+             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/iSardorbee/">
+        <img alt="Linkedin"
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/17122298/clever-coder">
+        <img alt="Stackowerflow"
+             src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<!--      <a href="https://www.hackerrank.com/clevercoderr">
+        <img alt="Hackerrank"
+             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+    <a href="https://www.kaggle.com/clevercoderr">
+        <img alt="Kaggle"
+             src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+    <a href="https://discord.gg/clevercoderr">
+        <img alt="Discord"
+             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://www.facebook.com/clevercoderr">
+        <img alt="Facebook"
+             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="https://www.facebook.com/profile.php?id=100068970307814"> -->
+</p>
+
+
+## 📊 Github stats
+<p>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=muhammad-abdulloh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="muhammad-abdulloh's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=muhammad-abdulloh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abdulloh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="muhammad-abdulloh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abdulloh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+</p>
+
+<!-- <p>
+  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammad-abdulloh&theme=monokai&column=8&no-frame=true&no-bg=true">
+  </a>
+</p> -->
+<a>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=muhammad-abdulloh&row=4&theme=onedark&no-frame=true"/>
+    </a>    
+</a>
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="#">
+        <img alt="C#"
+             src="https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+    <a href="#">
+        <img alt="C"
+             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Python"
+             src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="#">
+        <img alt="SQL"
+             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
+</p>
+
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <a href="#">
+        <img alt="ASP.NET"
+             src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=for-the-badge&logo=ASP.NET&logoColor=white"></a>
+    <a href="#">
+        <img alt=".NET6"
+             src="https://img.shields.io/badge/.NET6-%23150458.svg?style=for-the-badge&logo=.NET6&logoColor=white"></a>
+    <a href="#">
+        <img alt="ASP.NET Core"
+             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Entity%20Fraemwork%20Core"
+             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
+    <a href="#">
+        <img alt="OpenCV"
+             src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+    <a href="#">
+        <img alt="MVC"
+             src="https://img.shields.io/badge/MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
+</p>
+
+### 🗄️ Databases
+
+<p>
+    <a href="#">
+        <img alt="PostgreSQL"
+             src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+    <a href="#">
+        <img alt="SQL Server"
+             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Oracle"
+             src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
+</p>
+
+### ☁ Cloud hosting
+<p>
+    <a href="#">
+        <img alt="Heroku"
+             src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Azure"
+             src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+    </a>
+    <a href="#">
+        <img alt="Repl.it"
+             src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Digital Ocean"
+             src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a>
+    <a href="#">
+        <img alt="AWS"
+             src="https://img.shields.io/badge/AWS-0080FF?style=for-the-badge&logo=AWS&logoColor=white"></a>
+    <a href="#">
+        <img alt="Google Cloud"
+             src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+</p>
+
+### 💻 Software and tools
+<p>
+    <a href="#">
+        <img alt="Docker"
+             src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="#">
+        <img alt="GIT"
+             src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#">
+        <img alt="Jupyter"
+             src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+    <a href="#">
+        <img alt="Conda"
+             src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
+    <a href="#">
+        <img alt="PyCharm"
+             src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+    <a href="#">
+        <img alt="Vsual Studio"
+             src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow"></a>
+    <a href="#">
+        <img alt="Postman"
+             src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+</p>
+
+### 💻 My favorite operating systems
+<p>
+    <a href="#"><img alt="Windows"
+                     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Linux"
+                     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Ubuntu"
+                     src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Debian"
+                     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+    <a href="#"><img alt="Kali"
+                     src="https://img.shields.io/badge/Kali%20Linux-5BAEF2?style=for-the-badge&logo=kali&logoColor=white"></a>
+    
+</p>
+
 
 
 <div> 
@@ -25,119 +209,36 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
  
 </div>
+### Snake game
 
 
-## 📊 Github stats
-<p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=murodovich&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="murodovich's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=murodovich&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=murodovich&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="murodovich's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=murodovich&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="25"
-      height="25"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="27"
-      height="27"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="31"
-      height="31"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="34"
-      height="34"
-    />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://static.cdnlogo.com/logos/c/27/c.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="33"
-      height="33"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img
-        src="https://static.javatpoint.com/tutorial/entity-framework/images/entity-framework-tutorial.png"
-      alt="unity"
-      width="27"
-      height="28"
-    />
-  </a>
-  <a
-    href="https://www.postgresqltutorial.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.pngkey.com/png/full/466-4667821_postgres-logo.png"
-      alt="xd"
-      width="25"
-      height="25"
-    />
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/muhammad-abdulloh/github-readme-streak-stats -->
+<p align="center">
+  <a href="#">
+    <img title="🔥 Streak stats" alt="MuhammadAbdulloh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abdulloh&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
+## 💻 Last month's activity
+<!-- https://github.com/muhammad-abdulloh/github-readme-activity-graph -->
+<a href=""><img alt="muhammad-abdulloh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammad-abdulloh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<!--   this is comment   -->
+    
+    
+<!--     
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-abdulloh)](https://github.com/muhammad-abdulloh/github-readme-activity-graph)
+
+    (https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-abdulloh&theme=dracula)](https://github.com/muhammad-abdulloh/github-readme-activity-graph)
+    
+    <a href=""><img alt="muhammad-abdulloh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-abdulloh&theme=dracula" /></a> -->
+    
+    
+    
+    
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/berdikulov-571/count.svg" />
+  <img src="https://profile-counter.glitch.me/muhammad-abdulloh/count.svg" />
 </p>
-
-<a>
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Murodovich&row=4&theme=onedark&no-frame=true"/>
-    </a>    
-</a>

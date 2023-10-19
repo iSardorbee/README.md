@@ -1,4 +1,4 @@
-### Hi there I'm SArdorbek👋
+### Hi there I'm Sardorbek👋
 ### I'm .Net developer 👨🏻‍💻
 
 <!--

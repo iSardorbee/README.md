@@ -217,13 +217,13 @@
 <!-- GitHub Readme Streak Stats - https://github.com/muhammad-abdulloh/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="MuhammadAbdulloh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abdulloh&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="Sardorbek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iSardorbee&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
 ## 💻 Last month's activity
 <!-- https://github.com/muhammad-abdulloh/github-readme-activity-graph -->
-<a href=""><img alt="muhammad-abdulloh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammad-abdulloh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="iSardorbee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammad-abdulloh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!--   this is comment   -->
     
